@@ -1,0 +1,151 @@
+{
+	"info": {
+		"_postman_id": "eafa2fb1-d86a-4dad-8d4e-de8c9c414469",
+		"name": "Teste API Operadoras",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43544569",
+		"_collection_link": "https://igormarques-6238367.postman.co/workspace/Igor-Marques's-Workspace~1762bca4-2096-45af-8c50-67fec83916b7/collection/43544569-eafa2fb1-d86a-4dad-8d4e-de8c9c414469?action=share&source=collection_link&creator=43544569"
+	},
+	"item": [
+		{
+			"name": "bradesco",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/buscar?termo=bradesco",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "termo",
+							"value": "bradesco"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Brazil Dental",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/buscar?termo=bradesco",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "termo",
+							"value": "bradesco"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "BRASIL FOODS S/A",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/buscar?termo=bradesco",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "termo",
+							"value": "bradesco"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CAIXA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/buscar?termo=bradesco",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "termo",
+							"value": "bradesco"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "amil",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/buscar?termo=bradesco",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "termo",
+							"value": "bradesco"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
